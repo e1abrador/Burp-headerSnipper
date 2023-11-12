@@ -10,7 +10,7 @@ Go to the Extensions <b>-></b> Installed <b>-></b> Add <b>-></b> headerSnipper.p
 
 ## Using
 
-If you have a request like the one above it's pretty ugly to show that request in a report. With the extension, you must just click the "Snipped Request", configure the headers to be snipped and done, the request will be snipped:
+If you have a request like the following it's pretty ugly to show that request in a report. With the extension, you must just click the "Snipped Request", configure the headers to be snipped and done, the request will be snipped:
 
 ![image](https://github.com/e1abrador/Burp-headerSnipper/assets/74373745/6c203df6-f7bf-4ba3-be07-2bae2e76cd7f)
 
